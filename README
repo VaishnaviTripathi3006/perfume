@@ -26,16 +26,21 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+
 ### Screenshot
 
 screenshot(31).png
 
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/flexboxbootstrap-G0l74Giwqs)
+- Live Site URL: [Add live site URL here](https://vaishnavitripathi3006.github.io/perfume/)
 
-## My process
+
+##My Process
+
+In my journey, I learn about flexbox containers and items and how they can be used for the convenient arrangement using various attributes on flex-containers.
 
 ### Built with
 
@@ -45,11 +50,9 @@ screenshot(31).png
 - Bootstrap
 
 
-
 ### What I learned
 
-Being a begineer the journey was very much taughtful for me, it made my concepts of css and html more clear and got to know about flexbox and also learned my way to make responsive websites.
-
+Being a beginner the journey was very much fruitful for me, it made my concepts of CSS and HTML more clear, and got to know about Flexbox and also learned my way to make responsive websites.
 
 
 ### Useful resources
@@ -62,7 +65,6 @@ Being a begineer the journey was very much taughtful for me, it made my concepts
 
 - Website - [Vaishnavi Tripathi](https://www.your-site.com)
 - Frontend Mentor - [@VaishnaviTripathi3006](https://www.frontendmentor.io/profile/yourusername)
-
 
 
 ## Acknowledgments
