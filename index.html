@@ -17,9 +17,6 @@
        
         body{
             background-color: hsl(30, 38%, 92%);
-         
-
-            
         }
         .flex-container{
             display: flex;
@@ -27,28 +24,18 @@
             flex-wrap:wrap;
             margin-top:7%;
             margin-bottom: 7%;
-
             margin: 0;
             position: absolute;
             top:50%;
             transform: translateY(-50%);
             -ms-transform: translateY(-50%);
-
             left: 0;
             right: 0;
-            
-
-        .mrp{
-            text-decoration: line-through;
-        }   
-            
-            
-        }
+        } 
         .imgp,.desc{
             width: 321px;
             border-top-left-radius: 10px;
-            border-bottom-left-radius: 10px;
-            
+            border-bottom-left-radius: 10px;  
         }
         .img{
             width: 100%;
@@ -82,9 +69,7 @@
             font-family: 'montserrat',sans-serif;
             font-weight: 500;
             color: hsl(228, 12%, 48%);
-            font-size: 14px;
-            
-            
+            font-size: 14px;   
         }
         .price{
             font-family: 'fraunces',serif ;
@@ -96,14 +81,13 @@
             align-items: center;
             padding-top: 20px;
             padding-bottom: 20px;
-           
-
         }
         .mrp{
             font-family: 'montserrat',sans-serif;
             font-size: 14px;
             color:hsl(228, 12%, 48%);
             display: inline;
+            text-decoration: line-through;
         }
          
         .btn{
@@ -112,16 +96,11 @@
             color: white;
             width: 100%;
             margin: 0;
-            
-
-        }
-        
-        
+        } 
         @media (max-width:642px){
             .imgp,.desc{
                 width:90%;
             }
-            
             .imgp{
                 border-top-right-radius: 10px;
                 border-top-left-radius: 10px;
@@ -133,8 +112,6 @@
                 overflow: hidden;
             }
         }
-            
-            
 
     </style>
 </head>
@@ -147,13 +124,12 @@
         <picture>
             <source class="img" srcset="./image-product-mobile.jpg" media="(max-width:642px)" >
             <source class="img" srcset="./image-product-desktop.jpg" media="(max-width:1440px)" >
-            <img class="img" src="./image-product-desktop.jpg" alt="product-image">
-                    
+            <img class="img" src="./image-product-desktop.jpg" alt="product-image">       
         </picture>
         </div>
         <div class="desc">
             <p class="perfume">PERFUME</p>
-                
+   
             <h1 class="name"> Gabrielle Essence Eau De Parfum</h1>
             
             <p class="abt"> A floral, solar and voluptuous interpretation composed by Olivier Polge, 
@@ -164,7 +140,6 @@
             <p class="mrp ms-4">$169.99</p>
             </div>
             
-
             <button class="btn btn-success btn-lg"><img  class="cart" src="./icon-cart.svg"alt="*">   Add to Cart</button>
 
         </div>
